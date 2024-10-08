@@ -1,3 +1,5 @@
 print("hello")
 print("main")
-print("newww")
+print("AI")
+print("ML")
+
