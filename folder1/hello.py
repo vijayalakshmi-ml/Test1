@@ -1,3 +1,3 @@
 print("hello")
 print("main")
-print("newww")
+print("test practise")
