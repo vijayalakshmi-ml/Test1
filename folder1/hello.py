@@ -1,3 +1,3 @@
 print("hello")
-print("mainnn")
-print("test practise")
+print("main")
+print("test practises")
